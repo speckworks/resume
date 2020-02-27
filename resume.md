@@ -76,3 +76,4 @@ CUNY Queens College, Aaron Copland School of Music ​, Queens, NY
 Masters of Music in Jazz Performance 09/2013 - 06/
 Wesleyan University ​, Middletown, CT. 05/
 Latin American Studies and Music with Honors
+
