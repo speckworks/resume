@@ -1,0 +1,16 @@
+{
+	"curly": true,
+	"quotmark": "double",
+	"undef": true,
+	"node": true,
+	"eqeqeq": true,
+	"eqnull": true,
+	"expr": true,
+	"latedef": true,
+	"onevar": true,
+	"noarg": true,
+	"trailing": true,
+	"smarttabs": true,
+	"es3": false,
+	"white": true
+}
